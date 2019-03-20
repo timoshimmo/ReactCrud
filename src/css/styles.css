@@ -1,0 +1,110 @@
+
+body {
+  background-color: #ffffff; /* #f1f1f1 */
+  height: 100%;
+}
+
+.wrap-content {
+  width: 50%;
+  margin: 50px auto 20px;
+  padding: 0 auto;
+  display: block;
+}
+
+.nav-link {
+  cursor: pointer
+}
+
+.float-left-container {
+  float: left;
+  width: 50%;
+  padding-right: 5px;
+}
+
+.float-right-container {
+  float: left;
+  width: 50%;
+  padding-left: 5px;
+}
+
+
+.left-container {
+  float: left;
+  width: 50%;
+  padding-right: 10px;
+  height: 200px;
+}
+
+
+.right-container {
+  float: left;
+  width: 50%;
+  padding-left: 10px;
+  height: 200px;
+}
+
+.clear-both {
+  clear: both;
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+.content {
+  margin-top: 30px;
+  display: block;
+  height: 420px;
+}
+
+.brand-container {
+  width: 15%;
+}
+
+.topbar{
+  width: 80%;
+}
+
+.fileInput {
+  border-bottom: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-top: 1px solid lightgray;
+  border-left: 1px solid lightgray;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+
+}
+
+
+.imgPreview {
+  text-align: center;
+  height: 280px;
+  width: 185px;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.imgPreviewHome {
+  text-align: center;
+  height: 345px;
+  width: 250px;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.previewText {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.submitButton {
+  margin-bottom: 10px;
+}
+
+.categoriesContainer {
+  height: 100%;
+  display: inline-block;
+}
